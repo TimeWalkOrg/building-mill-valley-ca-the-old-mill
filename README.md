@@ -1,4 +1,4 @@
-# building-mill-valley-ca-the-old-mill
+# The Old Mill
 352 Throckmorton Ave, Mill Valley, CA 94941
 
 This repository contains materials gathered at "Building History in 3D", Semester 01, at the Mill Valley Library.  More info on the project at http://timewalk.org.
