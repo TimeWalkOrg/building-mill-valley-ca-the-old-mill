@@ -1,6 +1,6 @@
 # The Old Mill
 352 Throckmorton Ave, Mill Valley, CA 94941
-https://www.mvhistory.org/history-of/history-of-early-mill-valley/
+[Mill Valley Historical Society history](https://www.mvhistory.org/history-of/history-of-early-mill-valley/)
 
 This repository contains materials gathered at "Building History in 3D", Semester 01, at the Mill Valley Library.  More info on the project at http://timewalk.org.
 
