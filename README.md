@@ -9,3 +9,5 @@ Research and Design Team Members:
 - https://github.com/miloscola
 
 ![SketchUp screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-the-old-mill/blob/master/Old%20Mill%20-%20screenshot.png)
+
+See also [Mill Valley Historical Review story on the Old Mill](http://www.cityofmillvalley.org/civicax/filebank/blobdload.aspx?blobid=24471)
