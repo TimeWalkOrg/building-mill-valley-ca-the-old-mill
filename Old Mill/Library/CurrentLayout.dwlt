@@ -229,8 +229,8 @@ MonoBehaviour:
     y: 0
     width: 281
     height: 426
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -459,14 +459,14 @@ MonoBehaviour:
     width: 1241
     height: 472
   m_SceneLighting: 1
-  lastFramingTime: 3665.9202058035726
+  lastFramingTime: 493.19433912175083
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 174.57281, y: -9.442009, z: 261.81586}
+    m_Target: {x: 244.75006, y: -7.727659, z: 228.24678}
     speed: 2
-    m_Value: {x: 174.57281, y: -9.442009, z: 261.81586}
+    m_Value: {x: 244.75006, y: -7.727659, z: 228.24678}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -489,13 +489,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.07725001, y: 0.5643252, z: -0.053152643, w: -0.8202099}
+    m_Target: {x: 0.13595629, y: -0.774529, z: 0.1780142, w: 0.5915503}
     speed: 2
-    m_Value: {x: -0.07725001, y: 0.5643252, z: -0.053152643, w: -0.8202099}
+    m_Value: {x: 0.13595629, y: -0.774529, z: 0.1780142, w: 0.5915503}
   m_Size:
-    m_Target: 95.53391
+    m_Target: 54.944195
     speed: 2
-    m_Value: 95.53391
+    m_Value: 54.944195
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -534,8 +534,8 @@ MonoBehaviour:
     height: 405
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
+    m_SelectedIDs: 42300000
+    m_LastClickedID: 12354
     m_ExpandedIDs: 1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -596,7 +596,8 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders: []
+    m_Folders:
+    - Assets/Standard Assets/Environment
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -635,7 +636,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 114}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000042280000ba280000bc2800000e2b0000142b0000562b0000f02c0000942d000086320000
+    m_ExpandedIDs: 0000000042280000ba280000bc280000b02900000e2b0000142b0000562b0000f02c0000942d0000122e000086320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
