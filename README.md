@@ -13,7 +13,7 @@ In the 1920s this building (describe the building purpose in 1920)...
 
 ## SketchUp Model
 
-- Made by ![Jace Vincent](https://github.com/JaceVincent)
+- Made by ![Jace Monti](https://github.com/JaceVincent)
 - Model completed: December, 2017
 - Modeled in SketchUp Make 2017
 
