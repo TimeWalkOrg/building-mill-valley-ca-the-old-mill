@@ -3,12 +3,7 @@
 
 ## Building History
 
-In the 1920s this building (describe the building purpose in 1920)...
-
-- Built: c.tbd
-- Replaced: c.tbd
-- Architect: tbd
-- Library link: tbd
+Sawmill built by John Reed in mid-1830s
 
 
 ## SketchUp Model
@@ -24,6 +19,3 @@ SketchUp model completed, Oct 9, 2017
 ### Online references & photographs
 * [Mill Valley Historical Society history](https://www.mvhistory.org/history-of/history-of-early-mill-valley/)
 * [Mill Valley Historical Review story on the Old Mill](http://www.cityofmillvalley.org/civicax/filebank/blobdload.aspx?blobid=24471)
-
-## TimeWalk Images
-![TimeWalk Unity Model](tbd)
