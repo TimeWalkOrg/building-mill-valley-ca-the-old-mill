@@ -8,7 +8,7 @@ Sawmill built by John Reed in mid-1830s
 
 ## SketchUp Model
 
-- Made by ![Jace Monti](https://github.com/JaceVincent)
+- Made by [Jace Monti](https://github.com/JaceVincent)
 - Model completed: December, 2017
 - Modeled in SketchUp Make 2017
 
